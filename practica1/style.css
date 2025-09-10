@@ -1,0 +1,66 @@
+#mybody{
+    background-color:blueviolet(211,211,17);
+
+}
+#myh1{
+    color:brown;
+    text-align: center;
+    font-size: 40px;
+}
+#myh2{
+    color:rgba(255, 0, 157, 0.452);
+    text-align: left;
+    font-variant-ligatures: 430px;
+}
+#myh3{
+    color:rgb(215, 16, 255);
+    text-align: justify;
+    font-family: 40px;
+}
+#myh4{
+    color:rgb(247, 90, 182);
+    text-align: justify;
+    font-family: 40px;
+}
+#myh5{
+    color:rgb(228, 42, 212);
+    text-align: justify;
+    font-family: 40px;
+}
+#myh6{
+    color:rgba(245, 121, 224, 0.801);
+    text-align: justify;
+    font-family: 40px;
+}
+#myh7{
+    color:rgb(255, 3, 150);
+    text-align: justify;
+    font-family: 40px;
+}
+#mydiv{
+    background-color:rgba(238, 162, 219, 0.829);
+    max-width: 400px;
+    margin: auto;
+    padding:20px;
+    border-radius:10px; 
+}
+.biografia{
+    background-color:rgb(190, 195, 196);
+    max-width: 400px;
+    margin: auto;
+    padding:20px;
+    border-radius:10px; 
+}
+
+.dato{
+    
+    margin: 10px 0;
+   font-size:18px;
+}
+.etiqueta{
+    font-weight: bold;
+    color:rgb(115, 117, 223); 
+}
+.valor{
+   color:rgb(59, 31, 221);
+}
